@@ -1,0 +1,64 @@
+#EXtm3u
+
+#EXTINF:-1 tvg-logo="--logo--" group-title="", --Mais Tv HD--
+
+#EXTINF:-1 tvg-logo="--logo--" group-title="", --07/04/2017--
+
+#EXTINF:-1 tvg-logo="--logo--" group-title="", [COLOR blue][I][B] -- Series Torrent -- [/B][/I] [/COLOR]
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg " aspect-ratio="16:9" , The Flash T03 EP01 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:76563BF99681CEDE847365473BAC863B81A96F3A&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP02,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:CB4E93387284DF0B38E3CA7A4740E5E19E52443C&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP03,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:94CFE7761E050E465C878ACE93B082205396B6F4&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP04,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:D9269B4C9B6A484D24BFEF4E17711F27FAE73853&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP05,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:182D89D0F29B311F657961EFD8430B75702B97F3&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP06,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:182D89D0F29B311F657961EFD8430B75702B97F3&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP07,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:5F2B8F807AB7F6ECE5884C1EE6D75AB03853BF73&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP08,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:817EF9D622D704CE5BB320FA8D4D77A425A91805&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP09,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:3DEE6FE449A299F939240908C5CAE95E124F723F&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP10,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:F362DD3DE69BAEDF07BBED0AF99123A5BF68C050&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP11,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:228EEE67D062901AF91628FFAFEA25180A8B59F9&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP12,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:8BB73069CFF36DF2789FAE77906A5F38FCEB8CC1&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP13,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:61B5D032FDF690B47C7EE928E49DB2D22C556555&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP14,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:C4936156C2BA8110FC16C2C78C5163F694AE8C1B&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP15,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:8E4DE39D48D2BD3A246FB77DACD9BBE1C34079B6&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP16,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:975F40A072BA51B77EF9A042FC4DF40C7E24AD3F&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" ,The Flash T03 EP17,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:03E37A724607E7344B34E2A476A5A842328D5DA3&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="https://1339165948.rsc.cdn77.org/wp-content/uploads/2017/04/prison-break-5-temporada-poster-astrogeek.jpg" aspect-ratio="16:9" ,Prison Break: Sequel T01 EP01,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:15AEE0E2C1D7CE39EEB0AFAF4F9B0281001B42D3&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="https://1339165948.rsc.cdn77.org/wp-content/uploads/2017/04/prison-break-5-temporada-poster-astrogeek.jpg" aspect-ratio="16:9" ,Prison Break: Sequel T01 EP02,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:5621C3A17EFC9971FFF56DBC9292139BAA7C297A&amp
