@@ -102,6 +102,15 @@ http://127.0.0.1:63580/proxy?sid=725b213e&file=4&token=7F722C87BE632854DFE117237
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://br.web.img2.acsta.net/pictures/14/01/06/14/35/382626.jpg" ,sherlock T03 EP03,
 http://127.0.0.1:63580/proxy?sid=725b213e&file=5&token=7F722C87BE632854DFE1172371F152D714DF8902&pairing=7F722C87BE632854DFE1172371F152D714DF8902&service=STREAMING
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://br.web.img2.acsta.net/pictures/14/01/06/14/35/382626.jpg" ,sherlock T03 EP01,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:49B00390939F2042C0F6192DB8550857DA2D563B&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://br.web.img2.acsta.net/pictures/14/01/06/14/35/382626.jpg" ,sherlock T03 EP02,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:2DB69C8D11C00DE38BF255A8F357620E360F12DB&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://br.web.img2.acsta.net/pictures/14/01/06/14/35/382626.jpg" ,sherlock T03 EP03,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:3B3A382E8046B97B6F815742E4C4457D3A15453D&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg " aspect-ratio="16:9" , The Flash T03 EP01 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:76563BF99681CEDE847365473BAC863B81A96F3A&amp
 
