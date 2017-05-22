@@ -203,3 +203,6 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:C7F0ACE343E9D4F25E6945B4E90E
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://www.megaseriestorrent.net/wp-content/uploads/2016/08/The-Walking-Dead-Torrent-160x230.jpg " , The Walking Dead T07 EP16 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:01BD11FA56C2BA8CBD4A21B0EDD47998214ED0B0&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://www.megaseriestorrent.net/wp-content/uploads/2016/08/The-Walking-Dead-Torrent-160x230.jpg " , The Walking Dead T07 EP17 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:23A9E540578B7F9D528C73FE403E22CF21A11844&amp
