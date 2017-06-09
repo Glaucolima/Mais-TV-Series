@@ -60,6 +60,21 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:A9BB56B98402C13CC53446BFE7BE
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://1339165948.rsc.cdn77.org/wp-content/uploads/2016/11/Arrow-5%C2%AA-Temporada-2016-HDTV-720p-1080p-Dual-Audio-Dublado-Download-Torrent-200x300.jpg " , Arrow T05 EP18 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:01fa736d0980dca9f010711e5148c48f5562332a&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://1339165948.rsc.cdn77.org/wp-content/uploads/2016/11/Arrow-5%C2%AA-Temporada-2016-HDTV-720p-1080p-Dual-Audio-Dublado-Download-Torrent-200x300.jpg " , Arrow T05 EP19 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:DA9AD16CB88E3E0505D94AA07D61058E6FE8CAB4&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://1339165948.rsc.cdn77.org/wp-content/uploads/2016/11/Arrow-5%C2%AA-Temporada-2016-HDTV-720p-1080p-Dual-Audio-Dublado-Download-Torrent-200x300.jpg " , Arrow T05 EP20 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:5F2CECBE4F25B1267AF273848BD8ACAB00923DD4&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://1339165948.rsc.cdn77.org/wp-content/uploads/2016/11/Arrow-5%C2%AA-Temporada-2016-HDTV-720p-1080p-Dual-Audio-Dublado-Download-Torrent-200x300.jpg " , Arrow T05 EP21 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:E71C88095C0BC041C30CB50E0DE5D50B08D74189&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://1339165948.rsc.cdn77.org/wp-content/uploads/2016/11/Arrow-5%C2%AA-Temporada-2016-HDTV-720p-1080p-Dual-Audio-Dublado-Download-Torrent-200x300.jpg " , Arrow T05 EP22 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:937A22A0B26FDF9986BDF627644964C7CCC21C55&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://1339165948.rsc.cdn77.org/wp-content/uploads/2016/11/Arrow-5%C2%AA-Temporada-2016-HDTV-720p-1080p-Dual-Audio-Dublado-Download-Torrent-200x300.jpg " , Arrow T05 EP23 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:280B788D5B3D6ABCB176194AFCFDB5358786B52D&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://image.tmdb.org/t/p/w200_and_h300_bestv2/ovnH6mQfVembYErJXYhnh6e0R9C.jpg "  aspect-ratio="16:9" , Deuses Americanos T01 EP01 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:F6B3252D459A165A301A6CAC861488FEFDAE39DD&amp
 
