@@ -258,6 +258,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:10A2297E484A182F841F5C49AA10
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" , The Flash T03 EP22 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:81389fa88456fcedcfca380f5a784646eb3556fc&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo="http://www.torrentseries.net/wp-content/uploads/2016/11/The-Flash-3%C2%AA-Temporada.jpeg" aspect-ratio="16:9" , The Flash T03 EP23 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:826C9CDD1E6E2CA95A97F866DAFD4FC5EB10987A&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://www.megaseriestorrent.net/wp-content/uploads/2016/08/The-Walking-Dead-Torrent-160x230.jpg " , The Walking Dead T07 EP01 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:CC575E2280DA1E42E0A2D00193DF19DB91DE1847&amp
 
