@@ -84,6 +84,21 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:39308E420E798CEF3E73252CFF0A
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://image.tmdb.org/t/p/w200_and_h300_bestv2/ovnH6mQfVembYErJXYhnh6e0R9C.jpg "  aspect-ratio="16:9" , Deuses Americanos T01 EP03 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:99FCEAE4EDC907509C3D30CF94C70CADD203D304&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://image.tmdb.org/t/p/w200_and_h300_bestv2/ovnH6mQfVembYErJXYhnh6e0R9C.jpg "  aspect-ratio="16:9" , Deuses Americanos T01 EP04 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:e08d2210731de9f74eb207a94e9e841b6e37dc12&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://image.tmdb.org/t/p/w200_and_h300_bestv2/ovnH6mQfVembYErJXYhnh6e0R9C.jpg "  aspect-ratio="16:9" , Deuses Americanos T01 EP05 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:6e68298e2f1450d397c32da628e03ab15466b037&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://image.tmdb.org/t/p/w200_and_h300_bestv2/ovnH6mQfVembYErJXYhnh6e0R9C.jpg "  aspect-ratio="16:9" , Deuses Americanos T01 EP06 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:a51999ed69bd8009ef5537dfa55bd2abd6bda49a&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://image.tmdb.org/t/p/w200_and_h300_bestv2/ovnH6mQfVembYErJXYhnh6e0R9C.jpg "  aspect-ratio="16:9" , Deuses Americanos T01 EP07 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:268de0a86b631154c3be9753edef9600782ff42a&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://image.tmdb.org/t/p/w200_and_h300_bestv2/ovnH6mQfVembYErJXYhnh6e0R9C.jpg "  aspect-ratio="16:9" , Deuses Americanos T01 EP08 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:af0b22354b814cf2a636454fed9b84ddab1813fa&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/kL1g65K.jpg " , Gotham T03 EP01 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:9FF7E13702F78CC85CB0271547E6047E84E4275C&amp
 
@@ -141,6 +156,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:10910ec81376948e46c42ff798d3
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/kL1g65K.jpg " , Gotham T03 EP19 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:aaed40b9b01f5d56baa8a42fb048c0f885582e34&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/kL1g65K.jpg " , Gotham T03 EP20 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:8170ad12dff32894fedff1069ac38e9f77d660cf&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i2.wp.com/comandotorrents.com/wp-content/uploads/2017/04/Genius_1_Temporada_Dublado.jpg "  aspect-ratio="16:9" , Genius: A Vida de Einstein T01 EP01 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:D8E42AACAEDB2B2C9D34AC8B579C6CF383175D4A&amp
 
@@ -155,6 +173,15 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:BDA95574F4CC47E368FE4AA05CBF
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i2.wp.com/comandotorrents.com/wp-content/uploads/2017/04/Genius_1_Temporada_Dublado.jpg "  aspect-ratio="16:9" , Genius: A Vida de Einstein T01 EP05 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:605FD9D587D5555D60D31D74769DD9FCBC41E2BE&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i2.wp.com/comandotorrents.com/wp-content/uploads/2017/04/Genius_1_Temporada_Dublado.jpg "  aspect-ratio="16:9" , Genius: A Vida de Einstein T01 EP06 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:0d90c94f4404aad92f84c78c0021e0f6251c8258&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i2.wp.com/comandotorrents.com/wp-content/uploads/2017/04/Genius_1_Temporada_Dublado.jpg "  aspect-ratio="16:9" , Genius: A Vida de Einstein T01 EP07 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:66f917cabf29fe29518e6832ee036125d3e8ecfd&amp
+
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i2.wp.com/comandotorrents.com/wp-content/uploads/2017/04/Genius_1_Temporada_Dublado.jpg "  aspect-ratio="16:9" , Genius: A Vida de Einstein T01 EP08 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:85d2447978c53b38858274a3264adb49dbe86122&amp
 
 #EXTINF:-1 channelId="--Categoria--" tvg-logo="https://1339165948.rsc.cdn77.org/wp-content/uploads/2017/04/prison-break-5-temporada-poster-astrogeek.jpg" aspect-ratio="16:9" ,Prison Break: Sequel T01 EP01,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:15AEE0E2C1D7CE39EEB0AFAF4F9B0281001B42D3&amp
