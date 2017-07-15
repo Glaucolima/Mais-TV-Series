@@ -99,6 +99,9 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:268de0a86b631154c3be9753edef
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" https://image.tmdb.org/t/p/w200_and_h300_bestv2/ovnH6mQfVembYErJXYhnh6e0R9C.jpg "  aspect-ratio="16:9" , Deuses Americanos T01 EP08 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:af0b22354b814cf2a636454fed9b84ddab1813fa&amp
 
+#EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://torrentefilmes.com/wp-content/uploads/2016/08/Untitled-3.jpg " , Game Of Thrones T07 EP01 ,
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:71c23b4a9c283bb8c1c63ff97291c68222ad9dd0&amp
+
 #EXTINF:-1 channelId="--Categoria--" tvg-logo=" http://i.imgur.com/kL1g65K.jpg " , Gotham T03 EP01 ,
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:9FF7E13702F78CC85CB0271547E6047E84E4275C&amp
 
